@@ -48,3 +48,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# --- Project-specific additions ---
+data/*.zip
+data/**/*.zip
+*.html
+!README.html
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
